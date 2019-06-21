@@ -10,4 +10,4 @@ I believe LaTeX is much better than mainstream choices like Microsoft Powerpoint
 
 Feel free to copy this template and use it for personal or professional projects. It is only one of the numerous ways to do a presentation on LaTeX.
 
-This presentation allows you to upload videos  to your slides as well, however please note that in order to successfully run the video you need open the PDF file in Adobe Reader. 
+This presentation allows you to upload videos  to your slides as well, however please note that in order to successfully run the video you need to open the PDF file in Adobe Reader. 
