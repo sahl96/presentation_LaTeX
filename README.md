@@ -1,6 +1,6 @@
 # Full presentation done on LaTeX
 
-This project successfully created a full presentation using only LaTeX. The main tex file you are looking for in "untitled.tex" (sorry for the lousy naming)
+This project is about creating a full presentation using only LaTeX. The main tex file you are looking for in "untitled.tex" (sorry for the lousy naming)
 
 I believe LaTeX is much better than mainstream choices like Microsoft Powerpoint, because:
 
